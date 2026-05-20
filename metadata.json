@@ -1,0 +1,6 @@
+{
+  "name": "OrbitX",
+  "description": "Futuristic orbital crypto mining ecosystem and airdrop platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
